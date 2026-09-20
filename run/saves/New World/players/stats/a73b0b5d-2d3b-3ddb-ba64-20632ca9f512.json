@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 4869,
+      "minecraft:walk_one_cm": 3820,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 3,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 4869,
+      "minecraft:damage_dealt": 300,
+      "minecraft:jump": 120,
+      "minecraft:time_since_death": 4869,
+      "minecraft:sprint_one_cm": 22211,
+      "minecraft:fall_one_cm": 4545,
+      "minecraft:total_world_time": 5921,
+      "minecraft:fly_one_cm": 36118,
+      "minecraft:walk_on_water_one_cm": 644
+    },
+    "minecraft:mined": {
+      "minecraft:spruce_leaves": 5
+    },
+    "minecraft:picked_up": {
+      "minecraft:porkchop": 7,
+      "minecraft:spruce_sapling": 3
+    },
+    "minecraft:killed": {
+      "minecraft:pig": 3
+    }
+  },
+  "DataVersion": 4903
+}
