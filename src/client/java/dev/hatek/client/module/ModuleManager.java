@@ -5,6 +5,7 @@ import dev.hatek.client.module.impl.combat.AttackAura;
 import dev.hatek.client.module.impl.movement.AutoSprint;
 import dev.hatek.client.module.impl.misc.VoiceControl;
 import dev.hatek.client.module.impl.player.NoJumpDelay;
+import dev.hatek.client.module.impl.render.SwordTexture;
 import dev.hatek.client.module.setting.BoolSetting;
 import dev.hatek.client.module.setting.ButtonSetting;
 import dev.hatek.client.module.setting.ColorSetting;
@@ -67,6 +68,8 @@ public final class ModuleManager {
         MODULES.add(new NoJumpDelay());
 
         MODULES.add(new VoiceControl());
+
+        MODULES.add(new SwordTexture());
 
     }
 }

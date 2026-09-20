@@ -6,6 +6,7 @@
   "client": [
     "CameraMixin",
     "ConnectionMixin",
+    "ItemRendererMixin",
     "LocalPlayerMixin",
     "MouseHandlerMixin",
     "MultiPlayerGameModeMixin",
